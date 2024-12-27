@@ -1,6 +1,7 @@
 {
   "name": "gym_for_men",
   "version": "0.1.0",
+  "homepage": "https://MIOS0111.github.io/gym_for_men",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",

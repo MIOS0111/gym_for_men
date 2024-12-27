@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gym_for_men/static/css/main.910437cd.css",
+    "main.js": "/gym_for_men/static/js/main.e6f7ea97.js",
+    "static/media/meme.module.png": "/gym_for_men/static/media/meme.module.529e73d2d32c0b76c72b.png",
+    "static/media/background.jpg": "/gym_for_men/static/media/background.a50ee2db01e89c1d4cbf.jpg",
+    "static/media/Beliy.module.jpg": "/gym_for_men/static/media/Beliy.module.4f7fcc2aba4048b6e54b.jpg",
+    "static/media/main_img.module.jpg": "/gym_for_men/static/media/main_img.module.a7168fa1f83640709103.jpg",
+    "static/media/Kharitonov.module.jpg": "/gym_for_men/static/media/Kharitonov.module.faa5e44d746008b39a74.jpg",
+    "index.html": "/gym_for_men/index.html",
+    "main.910437cd.css.map": "/gym_for_men/static/css/main.910437cd.css.map",
+    "main.e6f7ea97.js.map": "/gym_for_men/static/js/main.e6f7ea97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910437cd.css",
+    "static/js/main.e6f7ea97.js"
+  ]
+}

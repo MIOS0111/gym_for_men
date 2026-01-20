@@ -1,3 +1,5 @@
+Данный проект созавался в рамках программы ДПО "Основы веб-разработки". Цель - создание клиентской части многостраничного приложения. Доступен на GitHub Pages: https://mios0111.github.io/gym_for_men/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
